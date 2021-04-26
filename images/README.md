@@ -1,1 +1,2 @@
-contains al images used for website
+contain images used in index page
+
